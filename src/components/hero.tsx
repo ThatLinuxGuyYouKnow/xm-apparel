@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative h-screen flex items-center justify-center bg-gray-50">
       <div className="absolute inset-0">
         <Image
-          src="https://images.unsplash.com/photo-1561715276-a2d087060f1d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          src="/image.png"
           alt="Minimalist fashion"
           fill
           className="object-cover opacity-20"
